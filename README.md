@@ -8,7 +8,7 @@ https://talha-bs-theme.netlify.app/
 + HTML5
 + CSS3
 + Bootstrap
-+ ScrollReveal
++ [ScrollReveal](https://github.com/jlmakes/scrollreveal)
 + jQuery
 
 ## Things learned
