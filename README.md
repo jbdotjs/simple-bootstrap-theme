@@ -1,5 +1,5 @@
 # simple-bootstrap-theme
-A simple bootstrap theme made while learning Bootstrap and Vanilla CSS
+A simple bootstrap theme with scroll reveal and smooth scroll functionality
 
 ## Live Demo 
 https://talha-bs-theme.netlify.app/
